@@ -6,7 +6,7 @@
 
 💞️ I'm eager to collaborate on tech innovations and programming projects. If you're into brainstorming groundbreaking ideas, let's connect!
 
-📫 You can reach me at vickyle254x@gmail.com. Whether it's a quick chat or a deep dive into tech talk, I'm just an email away.
+📫 You can reach me at victorhillan007@gmail.com. Whether it's a quick chat or a deep dive into tech talk, I'm just an email away.
 
 😄 Pronouns: He/Him.
 
