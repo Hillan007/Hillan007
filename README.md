@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Hillan007
-- 👀 I’m interested in technology and arts
-- 🌱 I’m currently learning software engineering in MUT.
-- 💞️ I’m looking to collaborate on innovations matters technology and programming.
-- 📫 How to reach me email is vickyle254x@gmail.com
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love cooking on free time😅
+-👋 Hey there! I'm @Hillan007.
+
+👀 I've got a passion for all things technology and arts—two worlds that blend creativity and innovation.
+
+🌱 Right now, I'm diving deep into the world of software engineering at MUT. It's a journey filled with endless learning and exciting challenges.
+
+💞️ I'm eager to collaborate on tech innovations and programming projects. If you're into brainstorming groundbreaking ideas, let's connect!
+
+📫 You can reach me at victorhillan007@gmail.com. Whether it's a quick chat or a deep dive into tech talk, I'm just an email away.
+
+😄 Pronouns: He/Him.
+
+⚡ Fun fact: When I'm not coding or exploring the latest tech trends, you'll find me in the kitchen experimenting with new recipes. Cooking is my way of unwinding and unleashing creativity! 😅
 
 <!---
 Hillan007/Hillan007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
