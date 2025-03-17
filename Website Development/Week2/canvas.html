@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Canvas Rectangle and Circle</title>
+</head>
+<body>
+    <h1>HTML5 Canvas Example</h1>
+    <canvas id="myCanvas" width="400" height="300" style="border:1px solid #000;"></canvas>
+    
+    <script>
+        // Get the canvas element and context
+        const canvas = document.getElementById("myCanvas");
+        const ctx = canvas.getContext("2d");
+
+        // Draw a rectangle
+        ctx.fillStyle = "lightblue"; // Fill color
+        ctx.strokeStyle = "blue"; // Border color
+        ctx.lineWidth = 4; // Border width
+        ctx.fillRect(50, 50, 150, 100); // x, y, width, height
+        ctx.strokeRect(50, 50, 150, 100); // Add border to rectangle
+
+        // Draw a circle
+        ctx.beginPath();
+        ctx.arc(250, 150, 50, 0, 2 * Math.PI); // x, y, radius, startAngle, endAngle
+        ctx.fillStyle = "lightgreen"; // Fill color
+        ctx.fill(); // Fill the circle
+        ctx.lineWidth = 4; // Border width
+        ctx.strokeStyle = "green"; // Border color
+        ctx.stroke(); // Add border to circle
+    </script>
+</body>
+</html>
