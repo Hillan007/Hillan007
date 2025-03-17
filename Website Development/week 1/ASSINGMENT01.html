@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Web Page</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 50%;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        form {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Basic Web Page</h1>
+    </header>
+
+    <section>
+        <h2>About the Page</h2>
+        <p>This is a sample HTML page designed to showcase various elements including a form, a table, an image, and a link.</p>
+    </section>
+
+    <section>
+        <h2>Registration Form</h2>
+        <form action="#" method="post">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name" placeholder="Enter your name" required><br><br>
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required><br><br>
+            <label for="phone">Phone:</label><br>
+            <input type="tel" id="phone" name="phone" placeholder="Enter your phone number"><br><br>
+            <button type="submit">Register</button>
+        </form>
+    </section>
+
+    <section>
+        <h2>User Information Table</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Phone Number</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>John Doe</td>
+                    <td>johndoe@example.com</td>
+                    <td>123-456-7890</td>
+                </tr>
+                <tr>
+                    <td>Jane Smith</td>
+                    <td>janesmith@example.com</td>
+                    <td>987-654-3210</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section>
+        <h2>Image Example</h2>
+        <img src="Lockheed sr-71.jpg" alt="Sample Image" width="300">
+    </section>
+
+    <section>
+        <h2>External Link</h2>
+        <p>Click the link below to visit Google:</p>
+        <a href="https://google.com" target="_blank">Visit Google</a>
+    </section>
+</body>
+</html>
