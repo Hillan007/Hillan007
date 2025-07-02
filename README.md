@@ -74,5 +74,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hillan007" alt="hillan007 GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=hillan007&theme=default" alt="GitHub Streak" />
 </p>
