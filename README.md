@@ -20,12 +20,19 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://codepen.io/hillan007" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codepen.svg" alt="CodePen" width="30" height="30"/></a>
-  <a href="https://twitter.com/victorhillan007" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a>
-  <a href="https://www.linkedin.com/in/victor-muthomi-the-best/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://discord.com/users/hillan007_18400" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="Discord" width="30" height="30"/></a>
+  <a href="https://codepen.io/hillan007" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://twitter.com/victorhillan007" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/victor-muthomi-the-best/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/hillan007_18400" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
-
 ---
 
 ### 🛠️ Languages & Tools
@@ -67,5 +74,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hillan007" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hillan007" alt="hillan007 GitHub Streak" />
 </p>
