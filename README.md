@@ -64,12 +64,14 @@
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Hillan007)](https://git.io/streak-stats)
-
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hillan007&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hillan007&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Coffee-strong-blue.svg?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debugging-mode--on-yellow?style=for-the-badge&logo=bugatti&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vibes-🔥_Only-red?style=for-the-badge&logo=github" />
+</p>
