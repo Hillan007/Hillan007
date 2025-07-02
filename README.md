@@ -64,10 +64,9 @@
 ---
 
 ### 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hillan007)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hillan007&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hillan007&show_icons=true&locale=en" alt="GitHub Stats" />
