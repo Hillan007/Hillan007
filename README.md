@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Victor Hillan</h1>
-<h3 align="center">A passionate Software Engineer from Kenya</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Victor+Hillan!;Software+Engineer+%F0%9F%92%BB+%7C+Kenya%F0%9F%87%B0%F0%9F%87%AA;Building+tech+that+makes+life+easier+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<h3 align="center">🚀 A Passionate Software Engineer from Kenya 🇰🇪</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hillan007&label=Profile%20views&color=0e75b6&style=flat" alt="hillan007" />
