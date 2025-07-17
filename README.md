@@ -23,12 +23,6 @@
 
 ---
 
-### ✨ Meet the Creator of Moodly
-**Moodly is crafted by Victor Hillan — a visionary software engineer blending ethical AI, emotional intelligence, and creative tech to help tweens thrive with their feelings.** 🌈✨
-Live here: https://moodly-2-0.vercel.app/
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
