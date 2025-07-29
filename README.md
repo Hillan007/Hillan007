@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hillan007&theme=onedark" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hillan007&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
