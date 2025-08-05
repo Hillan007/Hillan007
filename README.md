@@ -176,6 +176,56 @@ console.log("Ready to build the future! 🚀");
 
 ---
 
+## 💼 Looking to Hire Me?
+
+**I'm available for freelance projects and consulting!**
+
+### 🎯 **Services I Offer:**
+
+#### **🚀 Full-Stack Development**
+- **Web Applications:** Modern, responsive apps using React, Flask, Node.js
+- **Database Design:** PostgreSQL, MySQL, MongoDB optimization
+- **API Development:** RESTful APIs and third-party integrations
+- **Timeline:** 2-8 weeks depending on complexity
+
+#### **🤖 AI/ML Integration**
+- **Custom AI Solutions:** TensorFlow/PyTorch implementations
+- **Data Analysis:** Business intelligence and predictive analytics
+- **Automation:** Process optimization using AI
+- **Timeline:** 1-6 weeks depending on scope
+
+#### **📱 Digital Transformation**
+- **Legacy System Modernization:** Upgrade old systems to modern tech
+- **Workflow Automation:** Streamline business processes
+- **Performance Optimization:** Speed up existing applications
+- **Timeline:** 3-12 weeks depending on system complexity
+
+### 💰 **Investment Range:**
+- **Small Projects (1-2 weeks):** $2,000 - $5,000
+- **Medium Projects (3-6 weeks):** $5,000 - $15,000
+- **Large Projects (2-3 months):** $15,000 - $50,000
+- **Ongoing Consulting:** $75-150/hour
+
+### ✅ **Why Choose Me:**
+- ✨ **Solution-Focused:** I don't just code, I solve business problems
+- 🎯 **Results-Driven:** Delivered 20+ successful projects
+- 💬 **Clear Communication:** Regular updates and transparent process
+- 🚀 **Modern Tech Stack:** Using latest, scalable technologies
+- 🔒 **Reliable & Professional:** On-time delivery with quality guarantee
+
+### 📞 **Ready to Start Your Project?**
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victorhillan007@gmail.com&su=Project%20Inquiry%20-%20Hire%20Victor&body=Hi%20Victor,%0A%0AI'm%20interested%20in%20hiring%20you%20for%20a%20project.%0A%0AProject%20Details:%0A-%20Type:%20[Web%20App/AI%20Solution/Other]%0A-%20Timeline:%20[Your%20deadline]%0A-%20Budget:%20[Your%20budget%20range]%0A-%20Description:%20[Brief%20project%20description]%0A%0ALet's%20discuss!%0A%0ABest%20regards," target="_blank">
+    <img src="https://img.shields.io/badge/💼%20Hire%20Me%20Now-Get%20Quote-success?style=for-the-badge&logo=briefcase&logoColor=white" alt="Hire Me" />
+  </a>
+  <a href="https://calendly.com/victorhillan007" target="_blank">
+    <img src="https://img.shields.io/badge/📅%20Schedule%20Call-Free%20Consultation-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Schedule Call" />
+  </a>
+</p>
+
+---
+
 ## 🤝 Ready to Collaborate?
 
 Whether you're looking to:
