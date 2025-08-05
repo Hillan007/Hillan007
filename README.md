@@ -2,9 +2,19 @@
 
 ## 🚀 Full-Stack Developer | AI Enthusiast | Solution Builder
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Kenya;AI+%26+Machine+Learning+Enthusiast;Building+Solutions+that+Matter;Let's+Create+Something+Amazing!" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EACA57,10:F7971E,30:FFD84D,75:F7971E,100:EACA57&height=200&section=header&text=Victor%20Hillan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Solution%20Builder&descAlignY=55&descAlign=50&descSize=18" />
+</div>
+
+<div align="center" style="margin: 20px 0; padding: 20px;">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Kenya+🇰🇪;AI+%26+Machine+Learning+Enthusiast+🤖;Building+Solutions+that+Matter+🚀;Let's+Create+Something+Amazing+Together+✨" alt="Typing SVG" />
+  
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hillan007&label=Profile%20views&color=2E86C1&style=flat-square" alt="Profile views" />
