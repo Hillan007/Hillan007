@@ -58,7 +58,7 @@
   <a href="https://discord.com/users/hillan007_18400" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:victorhillan007@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victorhillan007@gmail.com&su=Let's%20Collaborate%20-%20GitHub%20Contact&body=Hi%20Victor,%0A%0AI%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20discuss..." target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -187,7 +187,7 @@ Whether you're looking to:
 **Let's turn your vision into reality!** 
 
 <p align="center">
-  <a href="mailto:victorhillan007@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victorhillan007@gmail.com&su=Collaboration%20Opportunity&body=Hi%20Victor,%0A%0AI%20saw%20your%20GitHub%20profile%20and%20I'm%20interested%20in%20collaborating%20on..." target="_blank">
     <img src="https://img.shields.io/badge/Let's%20Collaborate-Contact%20Me-FF6B6B?style=for-the-badge&logo=handshake&logoColor=white" alt="Let's collaborate" />
   </a>
   <a href="https://github.com/Hillan007">
