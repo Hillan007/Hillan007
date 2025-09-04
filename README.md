@@ -264,3 +264,8 @@ Whether you're looking to:
 <p align="center">
   <b>Thanks for visiting! Let's build something amazing together! 🚀</b>
 </p>
+
+✨ Champ content is open for inspiration, not duplication.
+Code: MIT License.
+Media: Ask first, credit always
+
