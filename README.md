@@ -154,7 +154,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hillan007&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hillan007&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/GitHub%20Streak-Active-blue?style=for-the-badge" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -207,7 +207,7 @@ This project is licensed under the [MIT License](LICENSE).
 - 🎯 **Results-Driven:** Delivered 20+ successful projects
 - 💬 **Clear Communication:** Regular updates and transparent process
 - 🚀 **Modern Tech Stack:** Using latest, scalable technologies
-  <img width="48%" src="https://streak-stats.demolab.com?user=Hillan007&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/GitHub%20Streak-Active-blue?style=for-the-badge" alt="GitHub Streak" />
 
 ### 📞 **Ready to Start Your Project?**
 
