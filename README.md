@@ -188,40 +188,26 @@ console.log("Ready to build the future! 🚀");
 
 ## 💼 Looking to Hire Me?
 
-**I'm available for freelance projects and consulting!**
-
-### 🎯 **Services I Offer:**
 
 #### **🚀 Full-Stack Development**
-- **Web Applications:** Modern, responsive apps using React, Flask, Node.js
-- **Database Design:** PostgreSQL, MySQL, MongoDB optimization
-- **API Development:** RESTful APIs and third-party integrations
 - **Timeline:** 2-8 weeks depending on complexity
 
-#### **🤖 AI/ML Integration**
-- **Custom AI Solutions:** TensorFlow/PyTorch implementations
-- **Data Analysis:** Business intelligence and predictive analytics
 - **Automation:** Process optimization using AI
 - **Timeline:** 1-6 weeks depending on scope
-
-#### **📱 Digital Transformation**
-- **Legacy System Modernization:** Upgrade old systems to modern tech
 - **Workflow Automation:** Streamline business processes
 - **Performance Optimization:** Speed up existing applications
-- **Timeline:** 3-12 weeks depending on system complexity
-
-### 💰 **Investment Range:**
-- **Small Projects (1-2 weeks):** $2,000 - $5,000
 - **Medium Projects (3-6 weeks):** $5,000 - $15,000
 - **Large Projects (2-3 months):** $15,000 - $50,000
 - **Ongoing Consulting:** $75-150/hour
+## 📄 License
 
+This project is licensed under the [MIT License](LICENSE).
 ### ✅ **Why Choose Me:**
 - ✨ **Solution-Focused:** I don't just code, I solve business problems
 - 🎯 **Results-Driven:** Delivered 20+ successful projects
 - 💬 **Clear Communication:** Regular updates and transparent process
 - 🚀 **Modern Tech Stack:** Using latest, scalable technologies
-- 🔒 **Reliable & Professional:** On-time delivery with quality guarantee
+  <img width="48%" src="https://streak-stats.demolab.com?user=Hillan007&theme=tokyonight" alt="GitHub Streak" />
 
 ### 📞 **Ready to Start Your Project?**
 
