@@ -1,3 +1,11 @@
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hillan007&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/GitHub%20Streak-Active-blue?style=for-the-badge" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hillan007&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
 # Hi 👋, I'm Victor Hillan
 
 ## 🚀 Full-Stack Developer | AI Enthusiast | Solution Builder
@@ -161,16 +169,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hillan007&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://img.shields.io/badge/GitHub%20Streak-Active-blue?style=for-the-badge" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hillan007&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
 
 ## 🏆 GitHub Trophies
 
