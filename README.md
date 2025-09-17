@@ -43,15 +43,10 @@
 **Problem:** Tweens struggle with emotional regulation and lack accessible tools for mental wellness.
 
 **Solution:** **Moodly** - An AI-powered journaling companion that helps young people understand and navigate their emotions through:
-- 📝 Intelligent mood tracking with personalized insights
-- 🎨 Creative expression tools for emotional release  
-- 🤝 Safe community features for peer support
-- 📊 Progress visualization to build emotional intelligence
 
 **Tech Stack:** Python, Flask, React, TensorFlow, PostgreSQL  
 **Impact Goal:** Supporting 10,000+ tweens in their emotional wellness journey
 
----
 
 ## 🌍 Let's Connect & Collaborate
 
@@ -63,9 +58,25 @@
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://codepen.io/hillan007" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-Explore-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+## 🌟 Featured Skills & Projects
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Expert-orange?style=for-the-badge" alt="AI & ML" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-Proficient-blue?style=for-the-badge" alt="Full-Stack" />
+  <img src="https://img.shields.io/badge/Process%20Automation-Specialist-green?style=for-the-badge" alt="Automation" />
+</p>
+
+### 🚀 Project Highlight: Moodly
+<p>
+<b>Moodly</b> is an AI-powered journaling companion for tweens, helping them understand and navigate their emotions. Built with Python, Flask, React, and TensorFlow.
+</p>
+<ul>
+  <li>📝 Intelligent mood tracking</li>
+  <li>🎨 Creative expression tools</li>
+  <li>🤝 Safe community features</li>
+  <li>📊 Progress visualization</li>
+</ul>
   </a>
-  <a href="https://discord.com/users/hillan007_18400" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victorhillan007@gmail.com&su=Let's%20Collaborate%20-%20GitHub%20Contact&body=Hi%20Victor,%0A%0AI%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20discuss..." target="_blank">
